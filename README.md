@@ -10,7 +10,7 @@
     your shortcut to smooth OCaml coding
   </pre>
 
-  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)](https://opensource.org/licenses/MIT)
+  [![License: GNU](https://img.shields.io/badge/License-GNU-yellow?style=for-the-badge)](https://opensource.org/licenses/MIT)
   [![Ocaml: 4.13.1](https://img.shields.io/badge/Ocaml-4.13.1-ee6a1a?style=for-the-badge)](https://ocaml.org/)
 
 </div>
